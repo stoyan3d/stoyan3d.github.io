@@ -1,9 +1,0 @@
-{
-"TOTAL_MEMORY": 268435456,
-"dataUrl": "Flock.data.unityweb",
-"asmCodeUrl": "Flock.asm.code.unityweb",
-"asmMemoryUrl": "Flock.asm.memory.unityweb",
-"asmFrameworkUrl": "Flock.asm.framework.unityweb",
-"splashScreenStyle": "Dark",
-"backgroundColor": "#231F20"
-}
